@@ -1,1 +1,1 @@
-# Projects
+Hello ! I am Hardik Chawla , a 3rd year student at IIT Roorkee .I've focused my professional efforts on several key areas: product development, consulting, analytics, and finance. This Repository showcases a range of projects I've successfully completed in these domains. 
